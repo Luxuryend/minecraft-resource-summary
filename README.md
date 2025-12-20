@@ -36,8 +36,11 @@ https://barrierslink.cn/
 titaike地图汉化：  
 https://www.titaike.cn/
 
-模组整合包网站：   
+mod光影整合包：   
 https://modrinth.com/
+
+国外mod资源：  
+https://www.curseforge.com/minecraft
 
 minecraft星球：  
 https://www.planetminecraft.com/
